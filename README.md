@@ -1,4 +1,4 @@
-# ReSkinGUI New_Banking Now with Animation fade colors on GUI
+# ReSkinGUI New_Banking Now with Animation fade colors on GUI and character names NO STEAM ID
 
 Original Code: (https://github.com/onlyserenity/new_banking)
 
