@@ -10,6 +10,7 @@ MODIFICATION BY: (https://github.com/ItsManueh/ReSkinGUI-New_Banking)
 
 [IMPORTANT]: THIS SCRIPT WILL MODIFIED ALL STYLE.CSS, LOCALES, UI.HTML AND THE TRANSLATE WILL ON SPANISH SO YOU MODIFIED
             THE LANGUAGE TO ENGLISH, GERMAN, FRANCE... IN YOUR LANGUAGE BASICALLY :D
+ PD: You can change the colors to your liking from style.css
             
 --------------------------------------------------------------------------------------------------------------------------
 Open Menu when you press the e
